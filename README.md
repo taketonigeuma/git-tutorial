@@ -1,9 +1,9 @@
-# Gitãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«
-
+# Gitƒ`ƒ…[ƒgƒŠƒAƒ‹
 
   - feature-A
 
-# Gitæ–‡å­—åŒ–ã‘test
+
+# Hello World! ‚±‚ñ‚É‚¿‚Í@ŠF‚³‚ñI
 
 
-# Hello World! çš†ã•ã‚“ã€ã“ã‚“ã«ã¡ã¯ï¼
+  - fix-B
